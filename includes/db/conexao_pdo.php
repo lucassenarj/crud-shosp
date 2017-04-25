@@ -1,7 +1,4 @@
 <?php
-# acesso ao banco de dados
-global $pdo, $g_erro, $g_erromsg, $g_dsn, $g_username, $g_password, $g_ip_host_email, $g_porta_host_email;
-
 $g_database = 'crud-shosp';
 $g_host     = 'localhost';
 $g_username = 'root';
