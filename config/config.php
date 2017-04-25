@@ -13,7 +13,6 @@ define("INCLUDES"               , WWW_ROOT  . "/includes"               );
 define("CLASSES"                , INCLUDES  . "/classes/"               );
 define("CLASSES_CONFIG"         , INCLUDES  . "/classes/_classes.php"   );
 define("DB"                     , INCLUDES  . "/db/"                    );
-define("FONTS"                  , INCLUDES  . "/fonts/"                 );
 define("HOME"                   , INCLUDES  . "/pages/home.php"         );
 define("PLANO"                  , INCLUDES  . "/pages/plano.php"        );
 define("PLANOS"                 , INCLUDES  . "/pages/planos.php"       );
